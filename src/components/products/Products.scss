@@ -1,0 +1,19 @@
+.produt-name {
+    width: 175px;
+    height: 21px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #757575;
+    margin-left: 120px;
+    margin-top: 27px;
+}
+.products-wrapper{
+    cursor: pointer;
+    margin-top: 200px;
+}
+.products-wrapper::-webkit-scrollbar{
+    display: none;
+}
